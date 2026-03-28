@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a3eacccc29a71010",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "0d5d7d993e9ae95f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a380e100b073d9b7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.10 - Araştırma yaptıklarım/Untitled.md",
+                "file": "1 - Aklıma Gelen Şeyler/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,9 +176,19 @@
               "icon": "lucide-info",
               "title": "File properties for Untitled"
             }
+          },
+          {
+            "id": "c0413aa7f10523a0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,22 +210,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a380e100b073d9b7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "BASE.base",
+    "1 - Aklıma Gelen Şeyler/Untitled.md",
+    "1 - Aklıma Gelen Şeyler/Ai Tools.md",
+    "5 - Templates/Aklıma Gelen Şeyler.md",
+    "0 - Index/Home Page.md",
+    "5 - Templates/Starter.md",
+    "5 - Templates/My Project.md",
+    "5 - Templates/Source Material.md",
+    "5 - Templates/Basic.md",
+    "1.10 - Araştırma yaptıklarım/Untitled.md",
     "1 - Aklıma Gelen Şeyler/Yapay Zeka Web Browser.md",
     "2026-03-28.md",
     "Welcome.md",
-    "1 - Aklıma Gelen Şeyler/Untitled.md",
-    "1 - Aklıma Gelen Şeyler/Ai Tools.md",
-    "0 - Index/Home Page.md",
-    "BASE.base",
-    "5 - Templates/Classic.md",
-    "1.10 - Araştırma yaptıklarım/Untitled.md",
     "0 - Index",
     "5 - Templates/Deneme.md",
     "5 - Templates/deneme3.md",
     "5 - Templates/deneme2.md",
-    "5 - Templates/Starter.md",
     "1.10 - Araştırma yaptıklarım/ara-webhook.md",
     "1.10 - Araştırma yaptıklarım",
     "8 - My Project",
