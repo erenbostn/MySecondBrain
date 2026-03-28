@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Aklıma Gelen Şeyler/Untitled.md",
+                "file": "1 - Aklıma Gelen Şeyler/Ai Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Ai Tools"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,6 +200,7 @@
   },
   "active": "a380e100b073d9b7",
   "lastOpenFiles": [
+    "1 - Aklıma Gelen Şeyler/Untitled.md",
     "Untitled.base",
     "1.10 - Araştırma yaptıklarım/Untitled.md",
     "5 - Templates/deneme2.md",
@@ -209,7 +211,6 @@
     "2026-03-28.md",
     "5 - Templates/Classic.md",
     "5 - Templates/Starter.md",
-    "1 - Aklıma Gelen Şeyler/Untitled.md",
     "1.10 - Araştırma yaptıklarım/ara-webhook.md",
     "1.10 - Araştırma yaptıklarım",
     "Welcome.md",
