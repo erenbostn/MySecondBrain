@@ -28,7 +28,11 @@ etiketler:
 
 ## 🔗 İlgili Diğer Notlar
 - [[ ]]
-
----
+ ---
 ## ✅ Sonraki Adımlar
 - [ ]
+
+
+
+
+

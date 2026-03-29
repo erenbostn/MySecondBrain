@@ -1,7 +1,8 @@
 ---
 tarih: <% tp.date.now("YYYY-MM-DD") %>
-etiketler: 
-  - #taslak
+etiketler:
+  - 
+priority: "5"
 ---
 
 # <% tp.file.title %>
