@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "110 research/lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "lambda"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5bec984f68eda4f1",
@@ -212,8 +211,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "100 roughly/yapay zeka model eğitme lambda.md",
+    "110 research/lambda.md",
     "Untitled 1.md",
+    "Untitled 2.md",
     "110 research/linux.md",
     "100 roughly/CSM , CRM , ERP.md",
     "100 roughly/Ai Tools.md",
