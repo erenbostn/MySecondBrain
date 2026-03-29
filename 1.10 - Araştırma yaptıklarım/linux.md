@@ -7,7 +7,7 @@ etiketler:
   - deneme
 ---
 
-# 🧠 Konu: Untitled
+# 🧠 Konu: linux
 
 > [!info] Temel Soru
 > Bu araştırmayla hangi soruyu cevaplamaya çalışıyorum? 

@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "zorluk": "number",
-    "deneme": "text"
+    "deneme": "text",
+    "etiketler": "multitext"
   }
 }

@@ -1,9 +1,9 @@
 ---
 başlangıç: <% tp.date.now("YYYY-MM-DD") %>
-hedef_tarih: 
-durum: 🔵 #aktif
-etiketler: 
-  - #proje
+hedef_tarih:
+durum: 🔵
+etiketler:
+  -
 ---
 # 🏗️ <% tp.file.title %>
 
