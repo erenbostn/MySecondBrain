@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5bec984f68eda4f1",
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 364.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,6 +212,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "Untitled 1.md",
     "110 research/linux.md",
     "100 roughly/CSM , CRM , ERP.md",

@@ -25,5 +25,22 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:toggle-bold": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }
