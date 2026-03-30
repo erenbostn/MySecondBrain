@@ -5,15 +5,24 @@
 - [[300 my project/_index|My All Project]]
 - [[400 special tech/_index|Special Tech]]
 - [[500 templates/_index|Templates]]
-- [[600 full notes/_index|All Notes]]
+- [[600 full notes/_index|All Notes]] || [[610 chatcpt-note/_index|ChatGpt Notes]]
 ## 🚀 Dashboard
 
-```dataview
-table file.link as "Not", file.tags as "🏷️", priority as "🔥", tarih as "📅", durum as "⚡"
-from "100 roughly" or "110 research"
-sort priority desc
-limit 15
+```dataview  
+TABLE WITHOUT ID
+	file.link as "Not",
+	choice(length(file.etags) > 0, string(file.etags[0]), "") as "🏷️",
+	choice(priority, string(priority), "") as "🔥",
+	choice(tarih, string(tarih), "") as "📅"
+FROM ""
+WHERE file.name != "_index"
+AND file.name != "Home Page"
+AND !contains(file.folder, "500 templates")
+AND file.ext = "md"
+SORT number(priority) DESC
+LIMIT 15
 ```
+
 
 
 
