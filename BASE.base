@@ -4,3 +4,8 @@ views:
     sort:
       - property: file.name
         direction: DESC
+  - type: table
+    name: Görünüm
+    sort:
+      - property: file.name
+        direction: DESC

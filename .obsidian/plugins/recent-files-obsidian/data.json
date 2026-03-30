@@ -1,28 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Home Page",
-      "path": "000 Index/Home Page.md"
+      "basename": "Linux Config",
+      "path": "10000 Uygulama Ayarları/Linux Config.md"
+    },
+    {
+      "basename": "_index",
+      "path": "10000 Uygulama Ayarları/_index.md"
+    },
+    {
+      "basename": "Basic2",
+      "path": "500 templates/Basic2.md"
+    },
+    {
+      "basename": "Basic",
+      "path": "500 templates/Basic.md"
+    },
+    {
+      "basename": "Starter",
+      "path": "500 templates/Starter.md"
+    },
+    {
+      "basename": "Kitap veya Makale",
+      "path": "500 templates/Kitap veya Makale.md"
+    },
+    {
+      "basename": "My Project",
+      "path": "500 templates/My Project.md"
+    },
+    {
+      "basename": "deneme",
+      "path": "500 templates/deneme.md"
+    },
+    {
+      "basename": "Kendin Deploy etme",
+      "path": "100 roughly/Kendin Deploy etme.md"
     },
     {
       "basename": "Docker",
       "path": "100 roughly/Docker.md"
     },
     {
-      "basename": "Server Config",
-      "path": "10000 Uygulama Ayarları/Server Config.md"
+      "basename": "CSM , CRM , ERP",
+      "path": "100 roughly/CSM , CRM , ERP.md"
     },
     {
-      "basename": "Linux Config",
-      "path": "10000 Uygulama Ayarları/Linux Config.md"
+      "basename": "Backendli proje",
+      "path": "100 roughly/Backendli proje.md"
+    },
+    {
+      "basename": "Ai Tools",
+      "path": "100 roughly/Ai Tools.md"
+    },
+    {
+      "basename": "örnek",
+      "path": "200 source/örnek.md"
+    },
+    {
+      "basename": "_index",
+      "path": "200 source/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "310 project document/_index.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "000 Index/Home Page.md"
+    },
+    {
+      "basename": "_index",
+      "path": "300 my project/_index.md"
     },
     {
       "basename": "BASE",
       "path": "BASE.base"
     },
     {
+      "basename": "Linkler",
+      "path": "9999 alışveriş/Linkler.md"
+    },
+    {
       "basename": "_index",
-      "path": "300 my project/_index.md"
+      "path": "9999 alışveriş/_index.md"
+    },
+    {
+      "basename": "Server Config",
+      "path": "10000 Uygulama Ayarları/Server Config.md"
     },
     {
       "basename": "_index",
@@ -37,14 +101,6 @@
       "path": "8888 Youtube Channel/_index.md"
     },
     {
-      "basename": "_index",
-      "path": "9999 alışveriş/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "10000 Uygulama Ayarları/_index.md"
-    },
-    {
       "basename": "Best Channels",
       "path": "8888 Youtube Channel/Best Channels.md"
     },
@@ -55,14 +111,6 @@
     {
       "basename": "The Light in the Vault of Insight",
       "path": "The Light in the Vault of Insight.pdf"
-    },
-    {
-      "basename": "Linkler",
-      "path": "9999 alışveriş/Linkler.md"
-    },
-    {
-      "basename": "Kendin Deploy etme",
-      "path": "100 roughly/Kendin Deploy etme.md"
     },
     {
       "basename": "📦 Git’te Cache (Index) ve `.env` Yönetimi",
@@ -77,20 +125,8 @@
       "path": "610 chatcpt-note/🧠 Git – 2 Bilgisayarla Çalışma Rehberi.md"
     },
     {
-      "basename": "Basic2",
-      "path": "500 templates/Basic2.md"
-    },
-    {
-      "basename": "Ai Tools",
-      "path": "100 roughly/Ai Tools.md"
-    },
-    {
       "basename": "Yapay Zeka Web Browser",
       "path": "100 roughly/Yapay Zeka Web Browser.md"
-    },
-    {
-      "basename": "Starter",
-      "path": "500 templates/Starter.md"
     },
     {
       "basename": "Book",
@@ -109,10 +145,6 @@
       "path": "110 research/_index.md"
     },
     {
-      "basename": "Backendli proje",
-      "path": "100 roughly/Backendli proje.md"
-    },
-    {
       "basename": "_index",
       "path": "100 roughly/_index.md"
     },
@@ -129,20 +161,12 @@
       "path": "100 roughly/yapay zeka model eğitme lambda.md"
     },
     {
-      "basename": "CSM , CRM , ERP",
-      "path": "100 roughly/CSM , CRM , ERP.md"
-    },
-    {
       "basename": "_index",
       "path": "600 full notes/_index.md"
     },
     {
       "basename": "TWENTY",
       "path": "300 my project/TWENTY.md"
-    },
-    {
-      "basename": "Basic",
-      "path": "500 templates/Basic.md"
     },
     {
       "basename": "_index",
