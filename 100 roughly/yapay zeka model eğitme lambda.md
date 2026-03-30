@@ -5,7 +5,7 @@ etiketler:
   - model eğitme
 priority: "5"
 ---
-
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
 # yapay zeka model eğitme lambda
 
 > **Bağlam:** lambdanın ne olduğuna bak kendi modeline eğitme üzerine bir platformmuş sanırsam 
@@ -17,4 +17,6 @@ priority: "5"
 
 ## 🔗 Bağlantılar
 - [[110 research/lambda|lambda]]
-- 
+
+
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]

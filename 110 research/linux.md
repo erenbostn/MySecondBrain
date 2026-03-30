@@ -6,7 +6,7 @@ durum: 🔴
 etiketler:
   - deneme
 ---
-
+← [[110 research/_index|index]] | 🏠 [[Home Page]]
 # 🧠 Konu: linux
 
 > [!info] Temel Soru
@@ -33,6 +33,6 @@ etiketler:
 - [ ]
 
 
-
+← [[110 research/_index|index]] | 🏠 [[Home Page]]
 
 

@@ -6,7 +6,7 @@ etiketler:
   - erp
   - twentycrm
 ---
-
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
 # CSM , CRM , ERP
 
 > **Bağlam:**  
@@ -18,3 +18,6 @@ etiketler:
 
 ## 🔗 Bağlantılar
 - [[ ]]
+
+
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]

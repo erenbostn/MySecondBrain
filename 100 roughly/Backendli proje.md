@@ -4,6 +4,7 @@ etiketler:
   - supabase
 zorluk: 3
 ---
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
 
 # Backendli proje
 
@@ -17,3 +18,4 @@ zorluk: 3
 ## 🔗 Bağlantılar
 - [[ ]]
 
+← [[100 roughly/_index|index]] | 🏠 [[Home Page]]

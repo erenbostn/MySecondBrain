@@ -4,7 +4,7 @@ etiketler:
   - 
 priority: "5"
 ---
-
+← [[110 research/_index|index]] | 🏠 [[Home Page]]
 # lambda
 
 > **Bağlam:** 
@@ -16,3 +16,6 @@ priority: "5"
 
 ## 🔗 Bağlantılar
 - [[ ]]
+
+
+← [[110 research/_index|index]] | 🏠 [[Home Page]]
