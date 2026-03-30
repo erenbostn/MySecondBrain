@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Home Page.md",
-                "mode": "source",
+                "file": "100 roughly/_index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "_index"
             }
           }
         ]
@@ -211,20 +211,23 @@
   },
   "active": "c6c00ef9b2f9b085",
   "lastOpenFiles": [
-    "610 chatcpt-note/_index.md",
-    "610 chatcpt-note/yeni bir deneme priority için.md",
     "000 Index/Home Page.md",
-    "300 my project/TWENTY.md",
     "300 my project/_index.md",
-    "610 chatcpt-note/tamam bu deneme için.md",
-    "BASE.base",
+    "300 my project/TWENTY.md",
+    "300 myproject/_index.md",
+    "500 templates/_index.md",
     "600 full notes/_index.md",
-    "400 special tech/_index.md",
-    "600 full notes/deneme.md",
     "200 source/_index.md",
+    "200 source/örnek.md",
+    "400 special tech/_index.md",
+    "610 chatcpt-note/tamam bu deneme için.md",
+    "610 chatcpt-note/_index.md",
+    "300 myproject",
+    "610 chatcpt-note/yeni bir deneme priority için.md",
+    "BASE.base",
+    "600 full notes/deneme.md",
     "100 roughly/_index.md",
     "110 research/_index.md",
-    "500 templates/_index.md",
     "Untitled.md",
     "610 chatcpt-note",
     "600 full notes/chatcpt/chatcpt nnote.md",
@@ -239,9 +242,6 @@
     "Untitled 1.md",
     "600 full notes/chatcpt",
     "610 chatcpt",
-    "500 templates/Source Material.md",
-    "500 templates/My Project.md",
-    "300 myproject",
     "000 Index",
     "110 research",
     "300 my project",

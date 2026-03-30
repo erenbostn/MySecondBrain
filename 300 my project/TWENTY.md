@@ -5,7 +5,7 @@ durum: 🔵
 etiketler:
   -
 ---
-← [[300 myproject/_index|index]] | 🏠 [[Home Page]]
+← [[300 my project/_index|_index]] | 🏠 [[Home Page]]
 # 🏗️ TWENTY
 
 ## 🎯 Hedef
@@ -20,4 +20,4 @@ etiketler:
 
 
 
-← [[110 research/_index|index]] | 🏠 [[Home Page]]
+← [[300 my project/_index|_index]] | 🏠 [[Home Page]]
