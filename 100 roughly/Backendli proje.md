@@ -4,7 +4,7 @@ etiketler:
   - supabase
 priority: 3
 ---
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]
 
 # Backendli proje
 
@@ -18,4 +18,4 @@ priority: 3
 ## 🔗 Bağlantılar
 - [[ ]]
 
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]

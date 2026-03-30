@@ -6,7 +6,7 @@ etiketler:
   - host
 priority: "5"
 ---
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]
 # Kendin Deploy etme
 
 > **Bağlam:** 
@@ -20,4 +20,4 @@ priority: "5"
 - [[ ]]
 
 
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]

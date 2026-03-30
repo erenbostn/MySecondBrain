@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Vocab",
-      "path": "700 english/Vocab.md"
+      "basename": "lambda",
+      "path": "110 research/lambda.md"
     },
     {
       "basename": "_index",
-      "path": "700 english/_index.md"
+      "path": "110 research/_index.md"
     },
     {
-      "basename": "_index",
-      "path": "610 chatcpt-note/_index.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "000 Index/Home Page.md"
+      "basename": "Backendli proje",
+      "path": "100 roughly/Backendli proje.md"
     },
     {
       "basename": "_index",
       "path": "100 roughly/_index.md"
+    },
+    {
+      "basename": "linux",
+      "path": "110 research/linux.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "110 research/Docker.md"
+    },
+    {
+      "basename": "Yapay Zeka Web Browser",
+      "path": "100 roughly/Yapay Zeka Web Browser.md"
+    },
+    {
+      "basename": "yapay zeka model eğitme lambda",
+      "path": "100 roughly/yapay zeka model eğitme lambda.md"
+    },
+    {
+      "basename": "Kendin Deploy etme",
+      "path": "100 roughly/Kendin Deploy etme.md"
     },
     {
       "basename": "Docker",
@@ -33,8 +49,48 @@
       "path": "100 roughly/Ai Tools.md"
     },
     {
-      "basename": "Kendin Deploy etme",
-      "path": "100 roughly/Kendin Deploy etme.md"
+      "basename": "tamam bu deneme için",
+      "path": "610 chatcpt-note/tamam bu deneme için.md"
+    },
+    {
+      "basename": "yeni bir deneme priority için",
+      "path": "610 chatcpt-note/yeni bir deneme priority için.md"
+    },
+    {
+      "basename": "_index",
+      "path": "610 chatcpt-note/_index.md"
+    },
+    {
+      "basename": "Vocab",
+      "path": "700 english/Vocab.md"
+    },
+    {
+      "basename": "_index",
+      "path": "700 english/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "600 full notes/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "300 my project/_index.md"
+    },
+    {
+      "basename": "TWENTY",
+      "path": "300 my project/TWENTY.md"
+    },
+    {
+      "basename": "Home Page",
+      "path": "000 Index/Home Page.md"
+    },
+    {
+      "basename": "Basic",
+      "path": "500 templates/Basic.md"
+    },
+    {
+      "basename": "_index",
+      "path": "400 special tech/_index.md"
     }
   ],
   "omittedPaths": [],

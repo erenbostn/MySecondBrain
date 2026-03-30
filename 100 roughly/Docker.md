@@ -4,7 +4,7 @@ etiketler:
   - docker
 priority: 5
 ---
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]
 # Docker 
 
 > **Bağlam:** absolutely learned these tech even if simple feautures.
@@ -18,4 +18,4 @@ priority: 5
 - [[ 110 research/Docker|Docker]]
 
 
-← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
+← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]

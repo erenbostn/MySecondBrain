@@ -1,7 +1,8 @@
+← [[700 english/_index|English Page]] | 🏠 [[Home Page]]
+
 - **Class:**  
 - **Date:** 2026-03-30  
-- **Topics:** #
-
+- **Tags:** #english, #vocab 
 # Words 📖🗒️
 
 
@@ -272,3 +273,6 @@
 - considerable → önemli, büyük (miktar/etki)
     
 - underestimate → küçümsemek, olduğundan az değerlendirmek
+
+
+← [[700 english/_index|English Page]] | 🏠 [[Home Page]]
