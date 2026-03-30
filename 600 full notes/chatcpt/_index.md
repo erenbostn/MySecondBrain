@@ -2,4 +2,4 @@
 # 📁 ChatCpt notes
 
 ```dataview  
-list from "" and !"_index" 
+list from "600 full notes/chatcpt" and !"_index" 

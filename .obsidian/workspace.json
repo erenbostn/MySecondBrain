@@ -11,10 +11,14 @@
             "id": "c6c00ef9b2f9b085",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "110 research/Docker.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Docker"
             }
           }
         ]
@@ -207,14 +211,18 @@
   },
   "active": "c6c00ef9b2f9b085",
   "lastOpenFiles": [
+    "110 research/lambda.md",
+    "110 research/linux.md",
+    "600 full notes/chatcpt/_index.md",
+    "300 my project/_index.md",
+    "110 research/_index.md",
+    "600 full notes/_index.md",
+    "000 Index/Home Page.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
     "BASE.base",
-    "600 full notes/chatcpt/_index.md",
     "500 templates/_index.md",
-    "600 full notes/_index.md",
-    "000 Index/Home Page.md",
     "600 full notes/chatcpt",
     "610 chatcpt",
     "500 templates/Basic.md",
@@ -224,10 +232,8 @@
     "500 templates/Complex.md",
     "500 templates/Basic2.md",
     "300 my project/TWENTY.md",
-    "300 my project/_index.md",
     "100 roughly/_index.md",
     "100 roughly/Ai Tools.md",
-    "110 research/_index.md",
     "400 special tech/_index.md",
     "300 myproject/_index.md",
     "100 roughly/Docker.md",
@@ -235,8 +241,6 @@
     "Home.md",
     "200 source/_index.md",
     "300 myproject",
-    "200 source/örnek.md",
-    "110 research/Docker.md",
     "000 Index",
     "110 research",
     "300 my project",
