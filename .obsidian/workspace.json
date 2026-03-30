@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "14c9edc10b1cfe72",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,10 +220,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "61a9af8675d69d6c",
+  "active": "79c437aa05e5c90c",
   "lastOpenFiles": [
-    "100 roughly/_index.md",
     "100 roughly/tama.md",
+    "100 roughly/_index.md",
     "000 Index/Home Page.md",
     "100 roughly/tamam oldu.md",
     "Untitled.md",
