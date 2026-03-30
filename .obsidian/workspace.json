@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9999 alışveriş/Linkler.md",
+                "file": "8888 Youtube Channel/Best Channels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linkler"
+              "title": "Best Channels"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9999 alışveriş/Linkler.md",
+                "file": "8888 Youtube Channel/Best Channels.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linkler"
+              "title": "Outline of Best Channels"
             }
           },
           {
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,8 +221,11 @@
   },
   "active": "f15d2127e1300c1a",
   "lastOpenFiles": [
-    "100 roughly/Kendin Deploy etme.md",
+    "The Light in the Vault of Insight.pdf",
+    "8888 Youtube Channel/Best Channels.md",
     "9999 alışveriş/Linkler.md",
+    "8888 Youtube Channel",
+    "100 roughly/Kendin Deploy etme.md",
     "9999 alışveriş",
     "610 chatcpt-note/📦 Git’te Cache (Index) ve `.env` Yönetimi.md",
     "610 chatcpt-note/Git Remote Kontrolü.md",
@@ -238,7 +241,6 @@
     "700 english/Vocab.md",
     "BASE.base",
     "700 english/_index.md",
-    "The Light in the Vault of Insight.pdf",
     "110 research/lambda.md",
     "110 research/_index.md",
     "100 roughly/Backendli proje.md",
@@ -249,13 +251,10 @@
     "100 roughly/Docker.md",
     "100 roughly/CSM , CRM , ERP.md",
     "600 full notes/_index.md",
-    "300 my project/_index.md",
-    "300 my project/TWENTY.md",
     "700 english",
     "300 myproject",
     "610 chatcpt-note",
     "600 full notes/chatcpt",
-    "610 chatcpt",
-    "000 Index"
+    "610 chatcpt"
   ]
 }
