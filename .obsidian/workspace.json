@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 roughly/Kendin Deploy etme.md",
-                "mode": "preview",
+                "file": "9999 alışveriş/Linkler.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kendin Deploy etme"
+              "title": "Linkler"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 roughly/Kendin Deploy etme.md",
+                "file": "9999 alışveriş/Linkler.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kendin Deploy etme"
+              "title": "Outline of Linkler"
             }
           },
           {
@@ -222,6 +221,9 @@
   },
   "active": "f15d2127e1300c1a",
   "lastOpenFiles": [
+    "100 roughly/Kendin Deploy etme.md",
+    "9999 alışveriş/Linkler.md",
+    "9999 alışveriş",
     "610 chatcpt-note/📦 Git’te Cache (Index) ve `.env` Yönetimi.md",
     "610 chatcpt-note/Git Remote Kontrolü.md",
     "000 Index/Home Page.md",
@@ -237,7 +239,6 @@
     "BASE.base",
     "700 english/_index.md",
     "The Light in the Vault of Insight.pdf",
-    "100 roughly/Kendin Deploy etme.md",
     "110 research/lambda.md",
     "110 research/_index.md",
     "100 roughly/Backendli proje.md",
@@ -250,13 +251,11 @@
     "600 full notes/_index.md",
     "300 my project/_index.md",
     "300 my project/TWENTY.md",
-    "500 templates/Basic.md",
     "700 english",
     "300 myproject",
     "610 chatcpt-note",
     "600 full notes/chatcpt",
     "610 chatcpt",
-    "000 Index",
-    "110 research"
+    "000 Index"
   ]
 }
