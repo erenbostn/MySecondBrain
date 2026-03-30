@@ -1,7 +1,6 @@
 ---
 tarih: <% tp.date.now("YYYY-MM-DD") %>
 konu:
-öncelik:
 etiketler:
   - 
 kaynak_türü:

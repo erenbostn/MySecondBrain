@@ -1,9 +1,9 @@
 ---
 tarih: <% tp.date.now("YYYY-MM-DD") %>
-kaynak_türü: #makale
-yazar: 
-url: 
-durum: 🟡 #okunuyor
+kaynak_türü:
+yazar:
+url:
+durum: 🟡
 ---
 # 📖 <% tp.file.title %>
 

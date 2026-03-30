@@ -2,7 +2,7 @@
 tarih: 2026-03-29
 etiketler:
   - docker
-öncelik: "5"
+zorluk: "5"
 ---
 
 # Docker 

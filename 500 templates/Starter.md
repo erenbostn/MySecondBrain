@@ -2,7 +2,7 @@
 tarih: <% tp.date.now("YYYY-MM-DD") %>
 etiketler:
   - 
-priority: "5"
+zorluk: "5"
 ---
 
 # <% tp.file.title %>
