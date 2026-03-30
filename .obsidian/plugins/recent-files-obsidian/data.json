@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BASE",
+      "path": "BASE.base"
+    },
+    {
       "basename": "Home Page",
       "path": "000 Index/Home Page.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "Vocab",
       "path": "700 english/Vocab.md"
-    },
-    {
-      "basename": "BASE",
-      "path": "BASE.base"
     },
     {
       "basename": "lambda",
