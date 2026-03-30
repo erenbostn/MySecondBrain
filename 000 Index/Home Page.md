@@ -6,6 +6,8 @@
 - [[400 special tech/_index|Special Tech]]
 - [[500 templates/_index|Templates]]
 - [[600 full notes/_index|All Notes]] || [[610 chatcpt-note/_index|ChatGpt Notes]]
+---
+
 ## 🚀 Dashboard
 
 ```dataview  
