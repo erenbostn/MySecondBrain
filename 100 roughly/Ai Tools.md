@@ -11,7 +11,7 @@ Skill.md dosyalarını nasıl verimli kullanabileceğini mesela frontend filan d
 asdda
 asdasdasdasdadasddea
 
-
+asdas
 
 
 ← [[100 roughly/_index|index]] | 🏠 [[Home Page]]

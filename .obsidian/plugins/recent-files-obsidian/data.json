@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "000 Index/Home Page.md"
+    },
+    {
       "basename": "_index",
       "path": "100 roughly/_index.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "100 roughly/Docker.md"
+    },
+    {
+      "basename": "CSM , CRM , ERP",
+      "path": "100 roughly/CSM , CRM , ERP.md"
+    },
+    {
+      "basename": "Ai Tools",
+      "path": "100 roughly/Ai Tools.md"
+    },
+    {
+      "basename": "Kendin Deploy etme",
+      "path": "100 roughly/Kendin Deploy etme.md"
     }
   ],
   "omittedPaths": [],

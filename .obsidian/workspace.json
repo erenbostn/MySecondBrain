@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 roughly/_index.md",
-                "mode": "preview",
+                "file": "000 Index/Home Page.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Home Page"
             }
           }
         ]
@@ -84,12 +84,12 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5bec984f68eda4f1",
@@ -220,15 +220,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79c437aa05e5c90c",
+  "active": "f15d2127e1300c1a",
   "lastOpenFiles": [
-    "100 roughly/tama.md",
     "100 roughly/_index.md",
     "000 Index/Home Page.md",
-    "100 roughly/tamam oldu.md",
-    "Untitled.md",
-    "610 chatcpt-note/yeni bir deneme priority için.md",
+    "100 roughly/Docker.md",
+    "100 roughly/CSM , CRM , ERP.md",
     "100 roughly/Ai Tools.md",
+    "Untitled.md",
+    "100 roughly/Untitled.md",
+    "100 roughly/tamam.md",
+    "100 roughly/Kendin Deploy etme.md",
+    "100 roughly/tama.md",
+    "100 roughly/tamam oldu.md",
+    "610 chatcpt-note/yeni bir deneme priority için.md",
     "300 my project/_index.md",
     "200 source/_index.md",
     "300 my project/TWENTY.md",
@@ -246,11 +251,6 @@
     "610 chatcpt-note",
     "600 full notes/chatcpt/chatcpt nnote.md",
     "600 full notes/chatcpt/_index.md",
-    "500 templates/Basic.md",
-    "100 roughly/Kendin Deploy etme.md",
-    "500 templates/Starter.md",
-    "110 research/Docker.md",
-    "110 research/lambda.md",
     "600 full notes/chatcpt",
     "610 chatcpt",
     "000 Index",
