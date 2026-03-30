@@ -1,5 +1,5 @@
 ← [[Home Page]] 🏠
-# 📁 English 
+# 🇬🇧 English 
 
 ```dataview  
 list from "700 english" where file.name != "_index"

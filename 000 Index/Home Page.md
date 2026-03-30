@@ -1,4 +1,5 @@
 ## 📁 Klasörler
+
 - [[100 roughly/_index|Rough]]
 - [[110 research/_index|Research]]
 - [[200 source/_index|Source]]
@@ -6,7 +7,7 @@
 - [[400 special tech/_index|Special Tech]]
 - [[500 templates/_index|Templates]]
 - [[600 full notes/_index|All Notes]] || [[610 chatcpt-note/_index|ChatGpt Notes]]
----
+-  [[10000 Uygulama Ayarları/_index|All Configs]]  || [[8888 Youtube Channel/_index|Youtube Channels]] ||  [[9999 alışveriş/_index|Alışveriş]]
 
 ## 🚀 Dashboard
 
