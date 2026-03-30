@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "_index",
-      "path": "700 english/_index.md"
-    },
-    {
       "basename": "Book",
       "path": "700 english/Book.md"
     },
     {
       "basename": "Vocab",
       "path": "700 english/Vocab.md"
+    },
+    {
+      "basename": "BASE",
+      "path": "BASE.base"
+    },
+    {
+      "basename": "_index",
+      "path": "700 english/_index.md"
     },
     {
       "basename": "yeni bir deneme priority için",

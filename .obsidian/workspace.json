@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 english/_index.md",
+                "file": "700 english/Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Book"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "700 english/_index.md",
+                "file": "700 english/Book.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of Book"
             }
           },
           {
@@ -222,8 +222,11 @@
   },
   "active": "f15d2127e1300c1a",
   "lastOpenFiles": [
-    "700 english/Book.md",
+    "The Light in the Vault of Insight 1.pdf",
     "700 english/Vocab.md",
+    "700 english/Book.md",
+    "BASE.base",
+    "700 english/_index.md",
     "610 chatcpt-note/yeni bir deneme priority için.md",
     "The Light in the Vault of Insight.pdf",
     "100 roughly/Kendin Deploy etme.md",
@@ -240,7 +243,6 @@
     "100 roughly/Ai Tools.md",
     "610 chatcpt-note/tamam bu deneme için.md",
     "610 chatcpt-note/_index.md",
-    "700 english/_index.md",
     "600 full notes/_index.md",
     "300 my project/_index.md",
     "300 my project/TWENTY.md",
@@ -250,7 +252,6 @@
     "700 english",
     "Untitled.md",
     "300 myproject",
-    "BASE.base",
     "610 chatcpt-note",
     "600 full notes/chatcpt",
     "610 chatcpt",
