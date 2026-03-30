@@ -6,8 +6,6 @@
 
 
 
-![[The Light in the Vault of Insight 1.pdf]]
-
 
 
 
