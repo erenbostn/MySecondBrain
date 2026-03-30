@@ -2,7 +2,7 @@
 tarih: 2026-03-29
 etiketler:
   - supabase
-zorluk: 3
+priority: 3
 ---
 ← [[100 roughly/_index|index]] | 🏠 [[Home Page]]
 
