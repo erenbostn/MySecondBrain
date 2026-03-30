@@ -167,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "000 Index/Home Page.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home Page"
             }
           },
           {
@@ -198,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
