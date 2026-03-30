@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8399de97abe7edf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f15d2127e1300c1a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Home Page.md",
+                "file": "100 roughly/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Docker"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.10 - Araştırma yaptıklarım/Untitled.md",
+                "file": "100 roughly/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Docker için geri bağlantılar"
             }
           },
           {
@@ -197,8 +197,7 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,10 +219,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f15d2127e1300c1a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "300 my project/_index.md",
     "000 Index/Home Page.md",
+    "10000 Uygulama Ayarları/Server Config.md",
+    "10000 Uygulama Ayarları/Linux Config.md",
+    "BASE.base",
+    "300 my project/_index.md",
     "610 chatcpt-note/_index.md",
     "700 english/_index.md",
     "8888 Youtube Channel/_index.md",
@@ -231,8 +233,6 @@
     "10000 Uygulama Ayarları/_index.md",
     "8888 Youtube Channel/Best Channels.md",
     "10000 Uygulama Ayarları/Windows Config.md",
-    "10000 Uygulama Ayarları/Server Config.md",
-    "10000 Uygulama Ayarları/Linux Config.md",
     "10000 Uygulama Ayarları",
     "The Light in the Vault of Insight.pdf",
     "9999 alışveriş/Linkler.md",
@@ -249,11 +249,9 @@
     "700 english/Book.md",
     "The Light in the Vault of Insight 1.pdf",
     "700 english/Vocab.md",
-    "BASE.base",
     "110 research/lambda.md",
     "110 research/_index.md",
     "100 roughly/Backendli proje.md",
-    "100 roughly/_index.md",
     "700 english",
     "300 myproject",
     "610 chatcpt-note",

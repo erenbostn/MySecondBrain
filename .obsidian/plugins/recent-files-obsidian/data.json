@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "BASE",
-      "path": "BASE.base"
-    },
-    {
       "basename": "Home Page",
       "path": "000 Index/Home Page.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "100 roughly/Docker.md"
+    },
+    {
+      "basename": "Server Config",
+      "path": "10000 Uygulama Ayarları/Server Config.md"
+    },
+    {
+      "basename": "Linux Config",
+      "path": "10000 Uygulama Ayarları/Linux Config.md"
+    },
+    {
+      "basename": "BASE",
+      "path": "BASE.base"
     },
     {
       "basename": "_index",
@@ -39,14 +51,6 @@
     {
       "basename": "Windows Config",
       "path": "10000 Uygulama Ayarları/Windows Config.md"
-    },
-    {
-      "basename": "Server Config",
-      "path": "10000 Uygulama Ayarları/Server Config.md"
-    },
-    {
-      "basename": "Linux Config",
-      "path": "10000 Uygulama Ayarları/Linux Config.md"
     },
     {
       "basename": "The Light in the Vault of Insight",
@@ -123,10 +127,6 @@
     {
       "basename": "yapay zeka model eğitme lambda",
       "path": "100 roughly/yapay zeka model eğitme lambda.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "100 roughly/Docker.md"
     },
     {
       "basename": "CSM , CRM , ERP",
