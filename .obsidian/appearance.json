@@ -1,6 +1,7 @@
 {
   "cssTheme": "Wasp",
   "enabledCssSnippets": [
-    "pdf"
+    "pdf",
+    "tag"
   ]
 }

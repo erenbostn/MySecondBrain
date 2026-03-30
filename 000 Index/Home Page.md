@@ -15,7 +15,11 @@ TABLE WITHOUT ID
 	file.link as "Not",
 	choice(length(file.etags) > 0, string(file.etags[0]), "") as "🏷️",
 	choice(priority, string(priority), "") as "🔥",
-	choice(tarih, string(tarih), "") as "📅"
+	choice(tarih, string(tarih), "") as "📅",
+	join(
+		map(etiketler, (e) => "<span class='tag'>" + e + "</span>"),
+		" "
+	) as "Etiketler"
 FROM ""
 WHERE file.name != "_index"
 AND file.name != "Home Page"
