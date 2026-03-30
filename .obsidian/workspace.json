@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 templates/Basic.md",
+                "file": "100 roughly/Kendin Deploy etme.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic"
+              "title": "Kendin Deploy etme"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "c6c00ef9b2f9b085",
   "lastOpenFiles": [
+    "500 templates/Basic.md",
     "500 templates/Starter.md",
     "110 research/Docker.md",
     "110 research/lambda.md",
@@ -227,7 +228,6 @@
     "500 templates/_index.md",
     "600 full notes/chatcpt",
     "610 chatcpt",
-    "500 templates/Basic.md",
     "500 templates/Source Material.md",
     "500 templates/My Project.md",
     "500 templates/Complex.md",
