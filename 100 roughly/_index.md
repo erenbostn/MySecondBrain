@@ -2,4 +2,4 @@
 # 📁 Roughly
 
 ```dataview  
-list from "100 roughly" and !"_index" 
+list from "100 roughly" where file.name != "_index"

@@ -2,4 +2,4 @@
 # 📁 Research
 
 ```dataview  
-list from "110 research" and !"_index" 
+list from "110 research" where file.name != "_index"

@@ -2,4 +2,4 @@
 # 📁 Source
 
 ```dataview  
-list from "200 source" and !"_index" 
+list from "200 source" where file.name != "_index"

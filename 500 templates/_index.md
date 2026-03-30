@@ -2,4 +2,4 @@
 # 📁 Templates
 
 ```dataview  
-list from "500 templates" and !"_index" 
+list from "500 templates" where file.name != "_index"
