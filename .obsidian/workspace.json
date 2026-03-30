@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "110 research/lambda.md",
-                "mode": "preview",
+                "file": "700 english/_index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lambda"
+              "title": "_index"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5bec984f68eda4f1",
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "110 research/lambda.md",
+                "file": "700 english/_index.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lambda"
+              "title": "Outline of _index"
             }
           },
           {
@@ -223,22 +222,24 @@
   },
   "active": "f15d2127e1300c1a",
   "lastOpenFiles": [
+    "700 english/Book.md",
+    "700 english/Vocab.md",
+    "610 chatcpt-note/yeni bir deneme priority için.md",
+    "The Light in the Vault of Insight.pdf",
+    "100 roughly/Kendin Deploy etme.md",
+    "110 research/lambda.md",
     "110 research/_index.md",
     "100 roughly/Backendli proje.md",
     "100 roughly/_index.md",
     "110 research/linux.md",
-    "110 research/lambda.md",
     "110 research/Docker.md",
     "100 roughly/Yapay Zeka Web Browser.md",
     "100 roughly/yapay zeka model eğitme lambda.md",
-    "100 roughly/Kendin Deploy etme.md",
     "100 roughly/Docker.md",
     "100 roughly/CSM , CRM , ERP.md",
     "100 roughly/Ai Tools.md",
     "610 chatcpt-note/tamam bu deneme için.md",
-    "610 chatcpt-note/yeni bir deneme priority için.md",
     "610 chatcpt-note/_index.md",
-    "700 english/Vocab.md",
     "700 english/_index.md",
     "600 full notes/_index.md",
     "300 my project/_index.md",
@@ -248,8 +249,6 @@
     "400 special tech/_index.md",
     "700 english",
     "Untitled.md",
-    "100 roughly/Untitled.md",
-    "100 roughly/tamam.md",
     "300 myproject",
     "BASE.base",
     "610 chatcpt-note",
@@ -257,7 +256,6 @@
     "610 chatcpt",
     "000 Index",
     "110 research",
-    "300 my project",
-    "400 special tech"
+    "300 my project"
   ]
 }

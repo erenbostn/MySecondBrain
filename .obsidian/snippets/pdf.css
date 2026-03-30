@@ -1,0 +1,8 @@
+.pdf-container {
+  max-width: 100% !important;
+}
+
+.pdf-page {
+  width: 100% !important;
+  height: auto !important;
+}
