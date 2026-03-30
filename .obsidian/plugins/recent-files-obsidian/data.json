@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "000 Index/Home Page.md"
+    },
+    {
       "basename": "Linux Config",
       "path": "10000 Uygulama Ayarları/Linux Config.md"
     },
     {
       "basename": "_index",
       "path": "10000 Uygulama Ayarları/_index.md"
+    },
+    {
+      "basename": "Linkler",
+      "path": "9999 alışveriş/Linkler.md"
+    },
+    {
+      "basename": "_index",
+      "path": "9999 alışveriş/_index.md"
+    },
+    {
+      "basename": "_index",
+      "path": "8888 Youtube Channel/_index.md"
+    },
+    {
+      "basename": "Best Channels",
+      "path": "8888 Youtube Channel/Best Channels.md"
+    },
+    {
+      "basename": "linux",
+      "path": "110 research/linux.md"
+    },
+    {
+      "basename": "lambda",
+      "path": "110 research/lambda.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "110 research/Docker.md"
     },
     {
       "basename": "Basic2",
@@ -65,24 +97,12 @@
       "path": "310 project document/_index.md"
     },
     {
-      "basename": "Home Page",
-      "path": "000 Index/Home Page.md"
-    },
-    {
       "basename": "_index",
       "path": "300 my project/_index.md"
     },
     {
       "basename": "BASE",
       "path": "BASE.base"
-    },
-    {
-      "basename": "Linkler",
-      "path": "9999 alışveriş/Linkler.md"
-    },
-    {
-      "basename": "_index",
-      "path": "9999 alışveriş/_index.md"
     },
     {
       "basename": "Server Config",
@@ -95,14 +115,6 @@
     {
       "basename": "_index",
       "path": "700 english/_index.md"
-    },
-    {
-      "basename": "_index",
-      "path": "8888 Youtube Channel/_index.md"
-    },
-    {
-      "basename": "Best Channels",
-      "path": "8888 Youtube Channel/Best Channels.md"
     },
     {
       "basename": "Windows Config",
@@ -137,24 +149,12 @@
       "path": "700 english/Vocab.md"
     },
     {
-      "basename": "lambda",
-      "path": "110 research/lambda.md"
-    },
-    {
       "basename": "_index",
       "path": "110 research/_index.md"
     },
     {
       "basename": "_index",
       "path": "100 roughly/_index.md"
-    },
-    {
-      "basename": "linux",
-      "path": "110 research/linux.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "110 research/Docker.md"
     },
     {
       "basename": "yapay zeka model eğitme lambda",
