@@ -1,4 +1,4 @@
-← [[Home Page]]
+← [[Home Page]] 🏠 || 🗒️ [[chatcpt]]
 # 📁 Roughly
 
 ```dataview  

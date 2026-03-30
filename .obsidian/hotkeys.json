@@ -42,5 +42,13 @@
       ],
       "key": "B"
     }
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Home"
+    }
   ]
 }

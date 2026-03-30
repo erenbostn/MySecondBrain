@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "7bd6203dfe4d52bc",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c6c00ef9b2f9b085",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index/Home Page.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "New tab"
             }
           }
         ]
@@ -209,43 +205,43 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6c00ef9b2f9b085",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "BASE.base",
+    "600 full notes/chatcpt/_index.md",
+    "500 templates/_index.md",
+    "600 full notes/_index.md",
+    "000 Index/Home Page.md",
+    "600 full notes/chatcpt",
+    "610 chatcpt",
+    "500 templates/Basic.md",
+    "500 templates/Starter.md",
+    "500 templates/Source Material.md",
+    "500 templates/My Project.md",
+    "500 templates/Complex.md",
+    "500 templates/Basic2.md",
     "300 my project/TWENTY.md",
     "300 my project/_index.md",
-    "000 Index/Home Page.md",
     "100 roughly/_index.md",
     "100 roughly/Ai Tools.md",
     "110 research/_index.md",
     "400 special tech/_index.md",
-    "500 templates/_index.md",
     "300 myproject/_index.md",
     "100 roughly/Docker.md",
-    "500 templates/Starter.md",
     "100 roughly/Backendli proje.md",
     "Home.md",
-    "600 full notes/_index.md",
-    "Untitled.md",
-    "BASE.base",
     "200 source/_index.md",
     "300 myproject",
     "200 source/örnek.md",
     "110 research/Docker.md",
-    "110 research/linux.md",
-    "110 research/lambda.md",
-    "100 roughly/Yapay Zeka Web Browser.md",
-    "100 roughly/yapay zeka model eğitme lambda.md",
-    "100 roughly/Kendin Deploy etme.md",
-    "100 roughly/CSM , CRM , ERP.md",
-    "400 special tech.md",
-    "100 roughly.md",
     "000 Index",
     "110 research",
     "300 my project",
     "400 special tech",
     "600 full notes",
-    "500 templates",
-    "4 - Indexes",
-    "3 - Tags"
+    "500 templates"
   ]
 }
