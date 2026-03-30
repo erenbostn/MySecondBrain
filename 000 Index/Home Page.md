@@ -5,6 +5,7 @@
 - [[300 my project/_index|My All Project]]
 - [[400 special tech/_index|Special Tech]]
 - [[500 templates/_index|Templates]]
+- [[600 full notes/_index|All Notes]]
 ## 🚀 Dashboard
 
 ```dataview
