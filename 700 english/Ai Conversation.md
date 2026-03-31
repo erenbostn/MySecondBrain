@@ -1,12 +1,25 @@
 ← 🇬🇧 [[700 english/_index|English Page]] | 🏠 [[Home Page]]
 
+- **Class:**  Software hiring interview
+- **Date:** 2026-03-31  
+- **Topics:** #conversation #speak
 
 
-
-
-
-
-
+| **Hatalı / Doğal Olmayan Cümle**                                                                                                                                                                                                        | **Doğru / Profesyonel Hali**                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| When I finish my university, I                                                                                                                                                                                                          | **When I graduate from university, I...**                                                                                                                    |
+| I know I know I know C++ and computer vision I interest computer vision my university finish homework is                                                                                                                                | **I am proficient in C++ and interested in computer vision. My graduation project involves...**                                                              |
+| Ok, this project include trash. Computer vision project is realize what waste come to in a garbage.                                                                                                                                     | **This project focuses on waste management. The goal is to identify different types of waste in a garbage bin using computer vision.**                       |
+| This raspberry pi are we this system set up in raspberry pi raspberry pi had a camera and this camera realize what coming in waste garbage and recycling I think this four class in four class realize this model paper metal glass and | **We deployed the system on a Raspberry Pi equipped with a camera. The model classifies waste into four categories: paper, metal, glass, and...**            |
+| Fourth one is medal. / Meddle, I said.                                                                                                                                                                                                  | **The fourth one is metal.**                                                                                                                                 |
+| Yes plastik. Yes plastik.                                                                                                                                                                                                               | **Yes, plastic. Correct.**                                                                                                                                   |
+| My part is fine-tune model. And integrate the Raspberry Pi. I use Roboflow that ah object etiketlemek yani verileri etiketlemek için şey Roboflow kullandık.                                                                            | **My role was to fine-tune the model and integrate it with the Raspberry Pi. We used Roboflow for data labeling.**                                           |
+| I used to Yolo V11 model.                                                                                                                                                                                                               | **I used the YOLOv11 model.**                                                                                                                                |
+| Or the Ultra UltraLytics who is the company developed and improve your V11.                                                                                                                                                             | **Ultralytics is the company that developed and improved YOLOv11.**                                                                                          |
+| I use I use on NNX format. Do you hear about that? Did you hear about something is that?                                                                                                                                                | **I used the ONNX format. Are you familiar with it?**                                                                                                        |
+| I don't understand your Christian. Can you repeat again?                                                                                                                                                                                | **I didn't understand your question. Could you please repeat that?**                                                                                         |
+| Yes, it is very it is işe yaradı yani bu yöntemi kullanmamız işimize yaradı.                                                                                                                                                            | **Yes, it worked perfectly; adopting this method was very beneficial for the project.**                                                                      |
+| It is changing. I think most important thing is, uh, environment... if light and, uh, açı güzelse yani çok doğruluk oranı %90'ı buluyordu.                                                                                              | **It depends. The environment is the most critical factor. Despite hardware limitations, the model reaches 90% accuracy under optimal lighting and angles.** |
 
 
 
