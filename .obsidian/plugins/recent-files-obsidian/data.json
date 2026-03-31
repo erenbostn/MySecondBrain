@@ -6,6 +6,14 @@
     },
     {
       "basename": "_index",
+      "path": "110 research/_index.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "100 roughly/Docker.md"
+    },
+    {
+      "basename": "_index",
       "path": "300 my project/_index.md"
     },
     {
@@ -101,10 +109,6 @@
       "path": "110 research/lambda.md"
     },
     {
-      "basename": "_index",
-      "path": "110 research/_index.md"
-    },
-    {
       "basename": "Backendli proje",
       "path": "100 roughly/Backendli proje.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "yapay zeka model eğitme lambda",
       "path": "100 roughly/yapay zeka model eğitme lambda.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "100 roughly/Docker.md"
     },
     {
       "basename": "CSM , CRM , ERP",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8399de97abe7edf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f15d2127e1300c1a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "right": {
     "id": "5bec984f68eda4f1",
@@ -220,10 +221,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f15d2127e1300c1a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "300 my project/_index.md",
     "000 Index/Home Page.md",
+    "110 research/_index.md",
+    "100 roughly/Docker.md",
+    "300 my project/_index.md",
     "610 chatcpt-note/_index.md",
     "700 english/_index.md",
     "8888 Youtube Channel/_index.md",
@@ -251,9 +254,7 @@
     "700 english/Vocab.md",
     "BASE.base",
     "110 research/lambda.md",
-    "110 research/_index.md",
     "100 roughly/Backendli proje.md",
-    "100 roughly/_index.md",
     "700 english",
     "300 myproject",
     "610 chatcpt-note",
