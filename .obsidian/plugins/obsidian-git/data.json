@@ -1,6 +1,6 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "Laptop yedek: {{date}}",
+  "commitMessage": "{{hostname}} yedek: {{date}}",
+  "autoCommitMessage": "{{hostname}} yedek: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,

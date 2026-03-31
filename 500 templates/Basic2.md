@@ -1,23 +1,13 @@
 ---
 tarih: <% tp.date.now("YYYY-MM-DD") %>
-etiketler:
-  - 
-tür:
-bağlantılar:
-  - - <% tp.file.cursor(1) %>
-durum: 🔴
+tur: kaynak
+etiketler: []
 ---
 
 # <% tp.file.title %>
 
-## 📌 Bağlam ve Özet
-> [!abstract] Kısa Özet
-> Bu notun ana amacı nedir? (İmleç burada başlayacak: <% tp.file.cursor(2) %>)
+## Not
+<% tp.file.cursor(1) %>
 
----
-
-## 📝 İçerik
+## Kaynaklar
 - 
-
-## 🔗 Referanslar
--
