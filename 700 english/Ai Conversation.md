@@ -23,9 +23,33 @@
 
 
 
+| **Hatalı / Doğal Olmayan Cümle**                                                                                                                                 | **Doğru / Profesyonel Hali**                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ya sayvana continue English practice our topic is I like I a seller furniture seller you are a customer and we conversation.                                     | **I want to continue the English practice. Let's roleplay: I'm a furniture seller, you're a customer, and we're having a conversation.**    |
+| I don't know meaning of dining room.                                                                                                                             | **I don't know the meaning of "dining room."**                                                                                              |
+| Yes, I wanna continue. But you help me. How I became a seller, I don't know.                                                                                     | **Yes, I want to continue, but I need your help. I'm not sure how to act like a salesperson.**                                              |
+| I don't know. I think this topic is some if you hard to me.                                                                                                      | **I'm not sure. I think this topic is a bit too difficult for me.**                                                                         |
+| Nowadays, I my priority is researching new take or I today some JavaScript library is hacked. Do you hear about that in anything?                                | **Nowadays, my priority is researching new tech. Also, I heard a JavaScript library was hacked today. Have you heard anything about it?**   |
+| I have AI project... today I wanna create a new logo to my AI website... I install NPM packet but I checked I there are there aren't any malware.                | **I have an AI project. Today, I want to create a logo for my AI website. I installed an NPM package and checked it; there is no malware.** |
+| I use Gemini and I use design front-end AI tools for names Stitch... I love Google environment. I think it is very improved and you reach everything you need.   | **I use Gemini and AI front-end tools like Stitch. I love the Google ecosystem; it’s very advanced and offers everything you need.**        |
+| I use my every project in Gemini... tokens limit very çok hızlı bir şekilde token limitine ulaşıyorum.                                                           | **I use Gemini in all my projects, but I've noticed I'm hitting the token limit very quickly lately.**                                      |
+| It consumes a quite tokens.                                                                                                                                      | **It consumes quite a few tokens.**                                                                                                         |
+| It will continue our interview.                                                                                                                                  | **Let's continue with our interview.**                                                                                                      |
+| I use a lot of AI tools and I realize every tools have a good to any specific topic... Gemini very very good ecosystem but sometimes it can be saçmalayabiliyor. | **I use many AI tools and realized each is good for a specific task. Gemini has a great ecosystem, but it can hallucinate sometimes.**      |
 
 
-
+|**Hatalı Cümle**|**Doğru / Doğal Hali**|**Not**|
+|---|---|---|
+|I nowadays I try to looking myself.|Nowadays, I am trying to **look after** myself.|Kendine bakmak: _Look after oneself_|
+|Not self self skill I don't know.|I'm not sure if "self-skill" is the word; maybe **self-improvement**?|Kişisel gelişim: _Self-improvement_|
+|I want to regular because I don't really much.|I want it to be a **regular habit** because I **sit** a lot.|Düzenli alışkanlık: _Regular habit_|
+|I think it is unhealth to body shape and my array.|I think it's **unhealthy** for my body shape and **posture**.|Duruş/Postür: _Posture_|
+|My body's everywhere is ache.|My **whole body aches** / I have pains everywhere.|Her yerim ağrıyor.|
+|Firstly, I want to small step.|First, I want to **take small steps**.|Küçük adımlar atmak: _Take small steps_|
+|It weight kilogram is few.|The weight is **low** / The weights are **light**.|Kilogram az/hafif.|
+|My first plan is healthy but after I try to strength.|My first goal is to **be healthy**, but later I want to focus on **building strength**.|Güç kazanmak: _Build strength_|
+|We were good time ago I do it regularly.|I **used to** do it regularly a while ago.|Eskiden yapardım: _Used to_|
+|I have something about sports and how I can doing fitness.|I've been learning about sports and how to **get fit**.|Forma girmek: _Get fit_|
 
 
 ← 🇬🇧 [[700 english/_index|English Page]] | 🏠 [[Home Page]]
