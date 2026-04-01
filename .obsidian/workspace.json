@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "310 project document/_index.md",
-                "mode": "preview",
+                "file": "000 Index/Home Page.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Home Page"
             }
           }
         ]
