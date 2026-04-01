@@ -1,6 +1,12 @@
-,.obsidian/workspace.json
+# Obsidian device-specific files
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache/
+.obsidian/plugins/recent-files-obsidian/
+
+# macOS
 .DS_Store
-700 english/Book
+
+# Your custom ignore
+700 english/Book/
 *.pdf
