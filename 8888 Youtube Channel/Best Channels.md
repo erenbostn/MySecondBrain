@@ -7,6 +7,7 @@ https://www.youtube.com/@RiseAboveMotivation
 
 https://www.youtube.com/@ElonMusk-FanZone/videos
 
+https://www.youtube.com/@modelstrangers/videos
 
 
 
