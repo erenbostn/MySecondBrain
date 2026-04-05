@@ -1,7 +1,7 @@
 - **Class:**  
 - **Date:** 2026-04-05  
-- **Topics:** #hack #mac 
-- Connects: [[Kali Linux]]
+- **Topics:** #hack #cybersecurity
+- Connects: [[Kali Linux]] and [[JetDirect Port]]
 
 🤖[[610 chatcpt-note/_index|ChatGpt Notes Page]] || 🏠 [[Home Page]] || 📝 [[600 full notes/_index|Full Notes Page]] ||👨‍💻 [[620 programming language/_index|Programming Language Page]] 
 
