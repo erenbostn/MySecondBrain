@@ -11,5 +11,9 @@ https://www.youtube.com/@modelstrangers/videos
 
 
 
+# Eğlenceli ingilizce
+
+https://www.youtube.com/@easyactually/videos
+
 
 ← [[Home Page]] 🏠
