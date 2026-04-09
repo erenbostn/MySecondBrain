@@ -52,4 +52,27 @@
 |I have something about sports and how I can doing fitness.|I've been learning about sports and how to **get fit**.|Forma girmek: _Get fit_|
 
 
+
+# Lord Jim
+
+|**Senin Cümlen**|**Doğru / Doğal Hali**|
+|---|---|
+|We didn't talk a conversation. I realized that and I want to do exercise.|We haven't had a conversation yet. I realized that and I want to practice.|
+|I say exercises to I want to say. Conversation and speaking exercise.|By "exercises," I meant conversation and speaking practice.|
+|e I was reading a book almost finish who name is e Lord Jim do you know?|I'm almost finished reading a book called Lord Jim. Do you know it?|
+|Actually, I didn't understand very clearly. The topic is very confused.|Actually, I didn't understand it very clearly. The plot is quite confusing.|
+|First, begin of the book is they crash ship|First, at the beginning of the book, the ship crashes.|
+|The crash partner and I they I guess they have like a court some judgment...|After the Patna crashes, I guess there is a court case or a trial about it.|
+|No, but that judgment they have I wonder in the after that judgment.|I'm wondering what happens after that judgment.|
+|More I don't understand why he try to escape it what why do like this?|I don't understand why he tries to escape. Why does he act like this?|
+|But you speak English.|Please speak in English.|
+|I'm he I read and I remember staying name. But I don't know who is this...|I remember a name like Stein, but I don't know who he is.|
+|Jim was going to somewhere. In like a kabile. They are king.|Jim goes to a place with a tribe. They have a leader.|
+|I don't know also this part.|I don't know this part either.|
+|And at the end of the story like Jim was going to meet some girl in Tribe.|Near the end of the story, Jim meets a girl in the tribe, right?|
+|No, I want to want to learn.|No, I want to hear the end.|
+|Later if I want I want to talk you.|I'll talk to you later if I want to.|
+
+
+
 ← 🇬🇧 [[700 english/_index|English Page]] | 🏠 [[Home Page]]
