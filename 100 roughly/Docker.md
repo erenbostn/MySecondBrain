@@ -15,7 +15,7 @@ priority: 5
 - 
 
 ## 🔗 Bağlantılar
-- [[ 110 research/Docker|Docker]]
+- [[Docker Videodan notlar|Docker Videodan notlar]]
 
 
 ← 🧠 [[100 roughly/_index|Rough Idea Page]] | 🏠 [[Home Page]] | 🌊 [[110 research/_index|Deep Research Page]]
