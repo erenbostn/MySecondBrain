@@ -74,5 +74,34 @@
 |Later if I want I want to talk you.|I'll talk to you later if I want to.|
 
 
+# Anna Archive
+
+|**Incorrect**|**Correct**|**Explanation**|
+|---|---|---|
+|Is there too many virus can be affected my computer?|**Are there** too many **viruses that can affect** my computer?|"Virus" sayılabilir bir isimdir, "many" ile çoğul (-es) kullanılır. "Affect" fiili edilgen (be affected) değil, etken kullanılmalıdır.|
+|...if it is attraction|...if it is **attractive / appealing**|"Attraction" isimdir (çekim merkezi), kitabın ilgi çekici olduğunu belirtmek için sıfat (attractive) gerekir.|
+|What is cost this book?|**How much does this book cost?** / **What is the cost of this book?**|Soru kalıbında "does" yardımcı fiili veya "cost" kelimesinin isim hali (the cost) kullanılmalıdır.|
+|I want to general of knowledge.|I want **general knowledge**.|"General of knowledge" hatalı bir tamlamadır. Doğrudan "genel bilgi" demek için "general knowledge" kullanılır.|
+|What more effective to me?|**Which one would be** more effective **for** me?|Cümlede fiil eksik. Ayrıca "birisi için etkili" derken "to" değil "for" tercih edilir.|
+|Forstvi starte code|**First, let's start with** "Code".|"Forstvi" kelimesi "First" (ilk olarak) şeklinde düzeltilmeli ve eylem bildiren "let's start" yapısı eklenmelidir.|
+|Normalde sıkılıyor.|**I usually get bored.**|İngilizcede özne (I) mutlaka belirtilmelidir. "Sıkılmak" kalıbı "get bored" şeklindedir.|
+
+# Book Recommed
+
+|**Senin Cümlen**|**Doğru Kullanım**|**Not**|
+|---|---|---|
+|"I want to be I want to practice I want to English practice."|"I want to practice my English."|"Practice" fiilinden sonra direkt nesne gelir.|
+|"I beg a pardon."|"I beg your pardon."|Kalıplaşmış bir ifadedir.|
+|"I have a breakfast"|"I had breakfast"|Geçmiş zaman ve "a" takısı kullanılmaz.|
+|"We didn't practice three or two days."|"We haven't practiced for two or three days."|Belirli bir süredir yapılmayan işler için _Present Perfect_ ve _for_ kullanılır.|
+|"And I decide today now we practice"|"I decided that we should practice today."|Karar verme eylemi geçmişte kaldığı için _decided_.|
+|"I search a maybe computer engineer book"|"I'm looking for a computer engineering book."|Arıyor olmak süregelen bir eylemdir (_looking for_).|
+|"What is the helps me to improve my knowledge?"|"What would help me improve my knowledge?"|"What helps..." veya "What would help..." daha doğaldır.|
+|"Maybe I learn Python in a ChatGPT"|"Maybe I could learn Python using ChatGPT."|Araçlar için "in" yerine "using" veya "via" tercih edilir.|
+|"Because of the if I enter some interview"|"In case I have a job interview."|"In case" (olması durumunda/ihtimaline karşı) burada daha uygundur.|
+|"I want to talk of a some programming language."|"I want to talk about some programming languages."|"Talk about" kalıbı kullanılır.|
+|"No, I don't found any book."|"No, I haven't found a book yet."|Olumsuz geçmiş tecrübelerde _Present Perfect_ (_haven't found_) kullanılır.|
+|"I want to suggest you what kind of book?"|"I want you to suggest a book."|"Bir şeyi önermeni istiyorum" derken bu yapı kullanılır.|
+
 
 ← 🇬🇧 [[700 english/_index|English Page]] | 🏠 [[Home Page]]
